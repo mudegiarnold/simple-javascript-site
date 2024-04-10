@@ -1,4 +1,4 @@
 constmyHeading =
 document.querySelector("h1");
-myHeading.textContent = "Hello world";
+myHeading.textContent = "Hello world!";
 
