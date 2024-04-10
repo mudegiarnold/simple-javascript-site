@@ -11,3 +11,8 @@ if (icecream === "chocolate") {
 } else {
 alert("Awwww, but chocolate is my favourite..");
 }
+
+function multiply(num1, num2) {
+    let esult = num1 * num2;
+    return result;
+}
